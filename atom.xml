@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://ziyang.github.io</id>
+    <id>https://dzy.github.io</id>
     <title>SegmentX</title>
-    <updated>2021-07-26T08:55:24.974Z</updated>
+    <updated>2021-07-26T09:06:28.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://ziyang.github.io"/>
-    <link rel="self" href="https://ziyang.github.io/atom.xml"/>
+    <link rel="alternate" href="https://dzy.github.io"/>
+    <link rel="self" href="https://dzy.github.io/atom.xml"/>
     <subtitle>hhhhhh</subtitle>
-    <logo>https://ziyang.github.io/images/avatar.png</logo>
-    <icon>https://ziyang.github.io/favicon.ico</icon>
+    <logo>https://dzy.github.io/images/avatar.png</logo>
+    <icon>https://dzy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, SegmentX</rights>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
-        <id>https://ziyang.github.io/post/test/</id>
-        <link href="https://ziyang.github.io/post/test/">
+        <id>https://dzy.github.io/post/test/</id>
+        <link href="https://dzy.github.io/post/test/">
         </link>
         <updated>2021-07-26T08:21:30.000Z</updated>
     </entry>
