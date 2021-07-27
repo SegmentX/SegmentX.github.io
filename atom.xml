@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://SegmentX.github.io</id>
     <title></title>
-    <updated>2021-07-27T03:44:31.726Z</updated>
+    <updated>2021-07-27T05:47:45.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://SegmentX.github.io"/>
     <link rel="self" href="https://SegmentX.github.io/atom.xml"/>
     <logo>https://SegmentX.github.io/images/avatar.png</logo>
     <icon>https://SegmentX.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, </rights>
+    <entry>
+        <title type="html"><![CDATA[MCU GPIO 输入输出模式]]></title>
+        <id>https://SegmentX.github.io/post/mcu-gpio-shu-ru-shu-chu-mo-shi/</id>
+        <link href="https://SegmentX.github.io/post/mcu-gpio-shu-ru-shu-chu-mo-shi/">
+        </link>
+        <updated>2021-07-27T03:14:50.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello World]]></title>
         <id>https://SegmentX.github.io/post/hello-world/</id>
